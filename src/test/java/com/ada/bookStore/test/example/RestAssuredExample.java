@@ -1,4 +1,4 @@
-package br.ada.ecommerce.test.example;
+package com.ada.bookStore.test.example;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;

@@ -1,4 +1,4 @@
-package br.ada.ecommerce.test;
+package com.ada.bookStore.test;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

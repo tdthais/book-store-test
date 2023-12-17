@@ -1,4 +1,4 @@
-package br.ada.ecommerce.test.customer;
+package com.ada.bookStore.test.user;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;

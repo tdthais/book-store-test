@@ -1,4 +1,4 @@
-package br.ada.ecommerce.test.customer;
+package com.ada.bookStore.test.user;
 
 import java.time.LocalDate;
 import java.util.List;

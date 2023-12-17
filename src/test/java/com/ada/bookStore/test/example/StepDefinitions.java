@@ -1,4 +1,4 @@
-package br.ada.ecommerce.test.example;
+package com.ada.bookStore.test.example;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
