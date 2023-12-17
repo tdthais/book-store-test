@@ -1,0 +1,3 @@
+com\ada\bookStore\test\user\UserRequest.class
+com\ada\bookStore\test\CucumberRunner.class
+com\ada\bookStore\test\user\UserRequestDefinitions.class
