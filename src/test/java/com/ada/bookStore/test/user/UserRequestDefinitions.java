@@ -30,7 +30,6 @@ public class UserRequestDefinitions {
     public void userIsRegistered(){
         response = request.body(user).when().post("/user");
         response.then().statusCode(201);
-        //Integer userId = response.then().contentType(ContentType.JSON).extract().path("$.id");
     }
 
     @Then("user is known")
