@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>br.ada</groupId>
-    <artifactId>e-commerce-test</artifactId>
+    <artifactId>book-store-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>e-commerce-test</name>
+    <name>book-store-test</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
